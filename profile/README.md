@@ -8,7 +8,7 @@ Prismarin is a online shopping/service site where you can buy digital products o
 
 ## Who are we?
 
-We are a two man Team which focuses on providing good digital goods.
+We are a three man Team which focuses on providing good digital goods.
 <br /> <br />
 [Maga A.](https://github.com/reapermaga) as the Lead Backend Developer
 <br />
