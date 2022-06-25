@@ -12,7 +12,7 @@ We are a three man Team which focuses on providing good digital goods.
 <br /> <br />
 [Maga A.](https://github.com/reapermaga) as the Lead Backend Developer
 <br />
-[Tsuki](https://github.com/benediktkaiser) as the Lead Frontend Developer
+[Zoey K.](https://github.com/zoey-kaiser) as the Lead Frontend Developer
 <br />
 [Nyxie](https://github.com/nyxiie) as the Lead UI/UX Designer, Concept Creator, Marketing Manager
 
